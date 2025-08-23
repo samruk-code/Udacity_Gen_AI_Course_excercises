@@ -1,1 +1,1 @@
-# Udacity_Gen_AI_Course_excercises
+## Udacity Gen AI Course Some Exercise Code Samples
