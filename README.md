@@ -85,7 +85,7 @@ Follow-along exercise for building an MLP classifier on MNIST using scikit-learn
 | TensorFlow/Keras | MNIST data loading |
 | Matplotlib | Visualization |
 
-## Setup
+## Python Packages Used
 
 ```bash
 pip install torch torchvision transformers datasets scikit-learn matplotlib numpy
